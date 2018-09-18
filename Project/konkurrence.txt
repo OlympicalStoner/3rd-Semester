@@ -1,0 +1,27 @@
+Problem: Hvordan planlægger man en uges mad for 50 mennesker (muligvis med allergier).
+Løsninger:
+	Udarbejde madplaner manuelt
+		- Manuelt opskalering af opskrifter.
+		- Manuelt iagttagelse af allergier og vanskeligheder.
+		- Tager lang tid, der skalerer jo flere mennesker der skal planlægges for.
+	
+	CookSmarts(Email Service?) [https://www.cooksmarts.com/]
+		- Planlægger måltiderne for en.
+		- Opretter indkøbslister.
+		- Måltider komme med alternative versioner (f.eks. for vegans eller gluten)
+		- Tilhørende videoer der viser hvordan man laver måltiderne.
+		- Kun til individuelle.
+			- Tager ikke dne individuelles preferencer i betrægtning???
+	
+	WHOLESUM(Web App)[https://wholesumfoodcalc.com]
+		- Can be used from any electronic device with access to internet.
+		- Can take group size into account.
+		- Opskrifter kan redigeres med ingredientser der ikke konflikterer med allergier osv.
+		- Kan også fravælge opskrifter der konflikterer med allergier osv.
+		
+	Nutrition Maker(Desktop & Web App)[https://www.nutritionmaker.com]
+		- Har adgang til databaser af mad fra mange lande.
+		- Kan akkomodere for folks mad vanskeligheder(Vegan, gluten, osv.)
+		- Can be used for managing diets and meals of multiple people.
+			- With the caveat of 3$ per month.
+		- Customizable GUI
