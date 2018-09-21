@@ -1,0 +1,6 @@
+Forklar først hvad produktet er (Hvem udviklede den, hvad blev den brugt til, etc.)
+Beskriv en nogenlunde abstrakt version af hvordan løsningen fungerer.
+Repeat the above 2 for every contestant.
+Beskriv hvad der kan udledes fra konkurrence. Hvad var pros & cons for disse entries,
+	og hvad lærer/inspirerer det vores projekt?
+Lav en lille indledning til underemnet oppe over alle entries.

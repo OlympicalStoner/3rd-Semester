@@ -1,0 +1,8 @@
+smollestnumbers(A, l, r, s1, s2):
+	if(l+r-1 > 1){
+		q = (l+r-1)/2
+		smollestnumbers(A, l, q)
+		smollestnumbers(A, q+1, r)
+		merge(A, l, q, r)
+	}
+	
