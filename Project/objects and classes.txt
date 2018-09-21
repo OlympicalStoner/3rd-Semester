@@ -1,0 +1,25 @@
+Objects:
+Package (The individual item being stored)
+Pallet
+Staff
+Role
+States (Tracking what which packages are being handled and how)
+Users (Could be clients and/or staff members.)
+Package Database
+
+Events:
+Package:
+	???
+Pallet:
+	Package added
+	Package removed
+	Pallet moved
+Staff:
+	Package added/removed
+	Package inspected (referring to checking the contents of the package)
+	Package identified (referring to checking who the package belongs to, when it has to be sent, etc.)
+States: (Could possibly be split into multiple objects, 1 for each state.)
+	Package added/removed
+	Package registered (as in, it has been added to the database)
+	Package sent (the package has been placed in transit)
+	
