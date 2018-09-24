@@ -22,4 +22,12 @@ States: (Could possibly be split into multiple objects, 1 for each state.)
 	Package added/removed
 	Package registered (as in, it has been added to the database)
 	Package sent (the package has been placed in transit)
-	
+Users:
+	Log-in attempted
+	Logged in
+	Package state viewed
+	Package ordered
+Package Database:
+	Package entry added/removed
+	Package information requested
+	Package information granted
