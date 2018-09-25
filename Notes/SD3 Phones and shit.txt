@@ -1,0 +1,17 @@
+Phone:
+	Classes:
+		Call
+		Phonebook
+			Peeps
+		Log
+		
+	Events:
+		Has called
+		Was called
+		Call ended
+		Call logged
+		Other caller saved
+		Other caller removed
+		Log accessed
+		Log cleared
+		Log exported
